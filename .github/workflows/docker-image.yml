@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: jepyr/jep:V1
+          tags: rin700k/scah:v1
